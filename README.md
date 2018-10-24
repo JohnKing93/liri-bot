@@ -6,4 +6,4 @@
 * "movie-this title" search OMDB for movie information. Replace title with your favorite movie.
 * "do-what-it-says" runs a pre determined command from a text file. Don't add a suffix.
 
-<img src="https://preview.ibb.co/kJPHaq/2018-10-24-01-29-52.gif"/>
+<img src="./demo.gif"/>
